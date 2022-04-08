@@ -2,10 +2,6 @@
 <a href="https://discord.gg/xinjohn1192">
   <img align="left" alt="Xin's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
-<a href="https://t.me/lucky_punk">
-  <img align="left" alt="Xin's telegram" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/telegram.svg" />
-</a>
-
 <a https://www.linkedin.com/in/xin-john-79b18b236">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
